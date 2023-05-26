@@ -1,4 +1,4 @@
-# Banking Aplication
+# Command-Line-Banking-Aplication
 - Solo Project
 - Written in C++
 - Basic application of class inheritance
