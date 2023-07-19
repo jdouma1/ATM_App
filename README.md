@@ -1,4 +1,4 @@
-# Command-Line-Banking-Aplication
+# ATM_App
 - Solo Project
 - Written in C++
 - Basic application of class inheritance
