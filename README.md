@@ -1,7 +1,5 @@
 # ATM_App
-- Solo Project
-- Written in C++
-- Basic application of class inheritance
+- Basic working understand application of class inheritance
 - Console interactive output to:
   - Create a checking/savings account
   - Deposit/withdrawal
